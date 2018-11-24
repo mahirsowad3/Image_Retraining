@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f76afed4-a6c6-4a51-94e8-129b76169f69" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/image_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_extraction.py" afterDir="false" />
-    </list>
+    <list default="true" id="f76afed4-a6c6-4a51-94e8-129b76169f69" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/image_extraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -76,11 +74,6 @@
               <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="Image Retraining" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Image Retraining" type="462c0819:PsiDirectoryNode" />
-              <item name="Training Images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -121,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download_images.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\Image Gathering\download_images.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\image_extraction.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\Image Gathering\image_extraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,8 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/image_extraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
