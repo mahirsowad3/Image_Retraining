@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bed</folder>
+	<filename>bed_73.jpg</filename>
+	<path>C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\Training Images\bed\bed_73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>936</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>66</ymin>
+			<xmax>926</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>
