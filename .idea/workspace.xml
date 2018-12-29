@@ -31,20 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/image_renaming.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="137">
               <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../Image Retraining with Tensorflow/TensorFlow_Tut_3_Object_Detection_Walk-through/0_verify_models_and_protoc_install.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3094">
-              <caret line="188" selection-start-line="188" selection-end-line="188" />
             </state>
           </provider>
         </entry>
@@ -97,7 +88,12 @@
             <path>
               <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="Image Retraining" type="462c0819:PsiDirectoryNode" />
-              <item name="Training Images" type="462c0819:PsiDirectoryNode" />
+              <item name="Image Gathering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Image Retraining" type="462c0819:PsiDirectoryNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,13 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image_renaming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Training Images/bed/bed_1.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -393,8 +382,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Image Retraining with Tensorflow/TensorFlow_Tut_3_Object_Detection_Walk-through/0_verify_models_and_protoc_install.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3094">
+        <state relative-caret-position="2482">
           <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_renaming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
