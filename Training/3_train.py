@@ -17,11 +17,11 @@ from object_detection.utils import dataset_util
 # module-level variables ##############################################################################################
 
 # this is the big (pipeline).config file that contains various directory locations and many tunable parameters
-PIPELINE_CONFIG_PATH = os.getcwd() + "/" + "ssd_inception_v2_coco.config"
+PIPELINE_CONFIG_PATH = os.getcwd() + "/" + "ssd_mobilenet_v2_coco.config"
 
 # verify this extracted directory exists,
 # also verify it's the directory referred to by the 'fine_tune_checkpoint' parameter in your (pipeline).config file
-MODEL_DIR = os.getcwd() + "/" + "ssd_inception_v2_coco_2018_01_28"
+MODEL_DIR = os.getcwd() + "/" + "ssd_mobilenet_v2_coco_2018_03_29"
 
 # verify that your MODEL_DIR contains these files
 FILES_MODEL_DIR_MUST_CONTAIN = [ "checkpoint" ,
