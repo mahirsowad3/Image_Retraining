@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f76afed4-a6c6-4a51-94e8-129b76169f69" name="Default Changelist" comment="" />
+    <list default="true" id="f76afed4-a6c6-4a51-94e8-129b76169f69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Training/2_generate_tfrecords.py" beforeDir="false" afterPath="$PROJECT_DIR$/Training/2_generate_tfrecords.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,43 +13,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/download_images.py">
+        <entry file="file://$PROJECT_DIR$/Training/1_xml_to_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="5" column="127" selection-start-line="5" selection-start-column="127" selection-end-line="5" selection-end-column="127" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/image_extraction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/image_renaming.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="46">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Training/1_xml_to_csv.py">
+        <entry file="file://$PROJECT_DIR$/Training/2_generate_tfrecords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#367#376#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="174">
+              <caret line="172" column="26" selection-start-line="172" selection-start-column="26" selection-end-line="172" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -61,6 +39,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>error</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -73,6 +56,7 @@
         <option value="$PROJECT_DIR$/image_renaming.py" />
         <option value="$PROJECT_DIR$/../../Image Retraining with Tensorflow/TensorFlow_Tut_3_Object_Detection_Walk-through/0_verify_models_and_protoc_install.py" />
         <option value="$PROJECT_DIR$/png_to_jpg.py" />
+        <option value="$PROJECT_DIR$/Training/2_generate_tfrecords.py" />
       </list>
     </option>
   </component>
@@ -130,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1_xml_to_csv">
+  <component name="RunManager" selected="Python.2_generate_tfrecords">
     <configuration name="0_verify_models_and_protoc_install" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Image Retraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="download_images" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_generate_tfrecords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Image Retraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Training" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\Image Gathering\download_images.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Training/2_generate_tfrecords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_generate_tfrecords" />
         <item itemvalue="Python.1_xml_to_csv" />
         <item itemvalue="Python.0_verify_models_and_protoc_install" />
         <item itemvalue="Python.image_renaming" />
         <item itemvalue="Python.image_extraction" />
-        <item itemvalue="Python.download_images" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +244,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -282,7 +267,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/girl-828607__340.jpg" />
     <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bed-1979270__340.jpg" />
     <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bedroom-1872196__340.jpg" />
     <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bed-945881__340.jpg" />
@@ -385,13 +369,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image Gathering/image_extraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Training Images/bed/bed_1.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -415,13 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image_renaming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/png_to_jpg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -429,13 +399,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Training/1_xml_to_csv.py">
+    <entry file="file://$PROJECT_DIR$/Image Gathering/image_extraction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#367#376#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_renaming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/1_xml_to_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/2_generate_tfrecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="172" column="26" selection-start-line="172" selection-start-column="26" selection-end-line="172" selection-end-column="26" />
         </state>
       </provider>
     </entry>
