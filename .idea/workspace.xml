@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f76afed4-a6c6-4a51-94e8-129b76169f69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training Images/car/car_275.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,12 +101,6 @@
               <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="Image Retraining" type="462c0819:PsiDirectoryNode" />
               <item name="Training Images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Image Retraining" type="462c0819:PsiDirectoryNode" />
-              <item name="Training Images" type="462c0819:PsiDirectoryNode" />
-              <item name="bed" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,7 +237,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -264,10 +259,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/rails-3309912__340.jpg" />
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/pug-1210025__340.jpg" />
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/people-1839564__340.jpg" />
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/light-506120__340.jpg" />
     <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/lavender-blossom-1595581__340.jpg" />
     <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/girl-1245773__340.jpg" />
     <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/girl-828607__340.jpg" />
@@ -386,6 +377,22 @@
           <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training Images/bed/bed_1.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training Images/car/car_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training Images/car/car_275.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training Images/car/car_276.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Image Retraining with Tensorflow/TensorFlow_Tut_3_Object_Detection_Walk-through/0_verify_models_and_protoc_install.py">
       <provider selected="true" editor-type-id="text-editor">

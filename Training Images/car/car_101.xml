@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>car_101.png</filename>
+	<path>C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\Training Images\car\car_101.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>73</ymin>
+			<xmax>793</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>
