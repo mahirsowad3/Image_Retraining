@@ -20,7 +20,7 @@ INPUT_TYPE = "image_tensor"
 INPUT_SHAPE = None
 
 # the location of the big config file
-PIPELINE_CONFIG_LOC =  os.getcwd() + "/" + "ssd_inception_v2_coco.config"
+PIPELINE_CONFIG_LOC =  os.getcwd() + "/" + "ssd_mobilenet_v2_coco.config"
 
 # the final checkpoint result of the training process
 TRAINED_CHECKPOINT_PREFIX_LOC = os.getcwd() + "/training_data/model.ckpt-500"

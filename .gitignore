@@ -28,3 +28,5 @@ Training/inference_graph/model.ckpt.index
 Training/inference_graph/model.ckpt.data-00000-of-00001
 Training/inference_graph/frozen_inference_graph.pb
 Training/inference_graph/checkpoint
+Training/ssd_mobilenet_v2_coco_2018_03_29.tar
+Training/ssd_mobilenet_v2_coco_2018_03_29.tar.gz
