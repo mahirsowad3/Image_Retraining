@@ -124,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3_train">
+  <component name="RunManager" selected="Python.2_generate_tfrecords">
     <configuration name="0_verify_models_and_protoc_install" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Image Retraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -232,9 +232,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_train" />
         <item itemvalue="Python.2_generate_tfrecords" />
         <item itemvalue="Python.1_xml_to_csv" />
+        <item itemvalue="Python.3_train" />
         <item itemvalue="Python.0_verify_models_and_protoc_install" />
         <item itemvalue="Python.image_renaming" />
       </list>
