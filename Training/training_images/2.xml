@@ -1,26 +1,26 @@
 <annotation>
 	<folder>training_images</folder>
-	<filename>10.jpg</filename>
-	<path>C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\Training\training_images\10.jpg</path>
+	<filename>2.jpg</filename>
+	<path>C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\Training\training_images\2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
-		<height>333</height>
+		<height>375</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>traffic_light</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>212</xmin>
-			<ymin>126</ymin>
-			<xmax>316</xmax>
-			<ymax>333</ymax>
+			<xmin>143</xmin>
+			<ymin>59</ymin>
+			<xmax>212</xmax>
+			<ymax>229</ymax>
 		</bndbox>
 	</object>
 </annotation>

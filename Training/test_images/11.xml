@@ -1,13 +1,13 @@
 <annotation>
-	<folder>traffic_lights_with_info</folder>
+	<folder>test_images</folder>
 	<filename>11.jpg</filename>
-	<path>/home/cdahms/Dropbox/OpenCV pics and stuff/traffic_lights_with_info/11.jpg</path>
+	<path>C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\Training\test_images\11.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>768</height>
+		<width>500</width>
+		<height>375</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>392</xmin>
-			<ymin>138</ymin>
-			<xmax>429</xmax>
-			<ymax>295</ymax>
+			<xmin>98</xmin>
+			<ymin>164</ymin>
+			<xmax>156</xmax>
+			<ymax>290</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>683</xmin>
-			<ymin>57</ymin>
-			<xmax>794</xmax>
-			<ymax>113</ymax>
+			<xmin>388</xmin>
+			<ymin>183</ymin>
+			<xmax>443</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 </annotation>
