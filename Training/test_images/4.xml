@@ -1,0 +1,38 @@
+<annotation>
+	<folder>traffic_lights_with_info</folder>
+	<filename>4.jpg</filename>
+	<path>/home/cdahms/Dropbox/OpenCV pics and stuff/traffic_lights_with_info/4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>895</width>
+		<height>869</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>138</ymin>
+			<xmax>463</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>614</xmin>
+			<ymin>124</ymin>
+			<xmax>659</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

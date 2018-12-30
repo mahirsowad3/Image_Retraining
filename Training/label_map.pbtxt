@@ -1,14 +1,5 @@
 item {
   id: 1
-  name: 'bed'
+  name: 'traffic_light'
 }
-item {
-  id: 2
-  name: 'car'
-}
-item {
-  id: 3
-  name: 'chair'
-}
-
 
