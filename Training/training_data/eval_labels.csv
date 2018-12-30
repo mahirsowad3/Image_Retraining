@@ -1,7 +1,0 @@
-filename,width,height,class,xmin,ymin,xmax,ymax
-10.jpg,500,333,traffic_light,212,126,316,333
-11.jpg,500,375,traffic_light,98,164,156,290
-11.jpg,500,375,traffic_light,388,183,443,291
-12.jpg,200,200,traffic_light,71,14,129,176
-13.jpg,500,375,traffic_light,193,127,335,374
-13.jpg,500,375,traffic_light,40,185,195,371
