@@ -19,22 +19,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Training/2_generate_tfrecords.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="174" column="28" selection-start-line="174" selection-start-column="28" selection-end-line="174" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Training/3_train.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2465">
-              <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+              <caret line="154" selection-start-line="154" selection-end-line="154" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Training/training_data/pipeline.config">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -68,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -122,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2_generate_tfrecords">
+  <component name="RunManager" selected="Python.3_train">
     <configuration name="0_verify_models_and_protoc_install" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Image Retraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="image_extraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Image Retraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Training Images" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Training" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\mahir\Documents\Pycharm Python Programs\Image Retraining\Image Gathering\image_extraction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Training/3_train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_train" />
         <item itemvalue="Python.2_generate_tfrecords" />
         <item itemvalue="Python.1_xml_to_csv" />
         <item itemvalue="Python.0_verify_models_and_protoc_install" />
         <item itemvalue="Python.image_renaming" />
-        <item itemvalue="Python.image_extraction" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +249,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -275,7 +270,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bed-945881__340.jpg" />
     <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/da274d75.png" />
     <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/SharedSpriteDesktopRewards_022118.png" />
     <entry file="file://$PROJECT_DIR$/download_images.py" />
@@ -417,6 +411,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Training/ssd_inception_v2_coco.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/2_generate_tfrecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="174" column="28" selection-start-line="174" selection-start-column="28" selection-end-line="174" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Training/1_xml_to_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -424,22 +428,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Training/ssd_inception_v2_coco.config">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Training/3_train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2465">
-          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Training/2_generate_tfrecords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="174" column="28" selection-start-line="174" selection-start-column="28" selection-end-line="174" selection-end-column="28" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Training/training_data/pipeline.config">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
