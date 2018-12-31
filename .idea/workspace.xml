@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f76afed4-a6c6-4a51-94e8-129b76169f69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Image Gathering/corrupt_file_remover.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Gathering/car_links.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/1.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,54 +13,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/76.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/78.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/83.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/89.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/90.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/95.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/99.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/105.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/101.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/100.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Image Gathering/car_links.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -103,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -129,19 +83,6 @@
               <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="Image Retraining" type="462c0819:PsiDirectoryNode" />
               <item name="Image Gathering" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Image Retraining" type="462c0819:PsiDirectoryNode" />
-              <item name="Image Gathering" type="462c0819:PsiDirectoryNode" />
-              <item name="ImgNet Images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Image Retraining" type="462c0819:PsiDirectoryNode" />
-              <item name="Image Gathering" type="462c0819:PsiDirectoryNode" />
-              <item name="ImgNet Images" type="462c0819:PsiDirectoryNode" />
-              <item name="bed" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Image Retraining" type="b2602c69:ProjectViewProjectNode" />
@@ -305,7 +246,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
@@ -313,7 +254,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -328,9 +269,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/9.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -451,35 +389,38 @@
     <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/67.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/76.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/78.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/83.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/89.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/90.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/95.jpg">
+    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/100.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/101.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/100.jpg">
+    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/105.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/99.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/105.jpg">
+    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/95.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/90.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/89.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/83.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/78.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Gathering/ImgNet Images/bed/76.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Gathering/car_links.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
