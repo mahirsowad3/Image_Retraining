@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f76afed4-a6c6-4a51-94e8-129b76169f69" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/image_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_extraction.py" afterDir="false" />
-    </list>
+    <list default="true" id="f76afed4-a6c6-4a51-94e8-129b76169f69" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/download_images.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -20,15 +18,6 @@
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/image_extraction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -172,7 +161,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -201,61 +191,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/woman-2197947__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/woman-1852907__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/wall-416062__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/rails-3309912__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/pug-1210025__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/people-1839564__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/light-506120__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/lavender-blossom-1595581__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/girl-1245773__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/girl-828607__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bed-1979270__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bedroom-1872196__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bed-945881__340.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/da274d75.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/SharedSpriteDesktopRewards_022118.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/download_images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="127" selection-start-line="5" selection-start-column="127" selection-end-line="5" selection-end-column="127" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/woman-2197947__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/woman-1852907__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/wall-416062__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/rails-3309912__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/pug-1210025__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/people-1839564__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/light-506120__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/lavender-blossom-1595581__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/girl-1245773__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/girl-828607__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bed-1979270__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bedroom-1872196__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/bed-945881__340.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/da274d75.png" />
+    <entry file="file://$PROJECT_DIR$/Training Images/Bed Images/SharedSpriteDesktopRewards_022118.png" />
     <entry file="file://$USER_HOME$/Anaconda3/envs/MachineLearning/Lib/site-packages/giextractor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -263,9 +213,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/apple_fruit/apple_fruit_1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Training Images/apple_fruit/apple_fruit_1.jpg" />
     <entry file="file://$PROJECT_DIR$/Training Images/door/door_297.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -275,30 +223,16 @@
     <entry file="file://$PROJECT_DIR$/Training Images/door/door_55.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_37.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_37.gif" />
     <entry file="file://$PROJECT_DIR$/Training Images/table/table_81.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_26.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_257.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/car/car_55.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_53.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_50.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_37.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_26.png" />
+    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_257.jpg" />
+    <entry file="file://$PROJECT_DIR$/Training Images/car/car_55.png" />
+    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_53.png" />
+    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_50.png" />
+    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_37.png" />
     <entry file="file://$PROJECT_DIR$/Training Images/door/door_43.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -314,9 +248,7 @@
     <entry file="file://$PROJECT_DIR$/Training Images/door/door_34.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Training Images/stairs/stairs_13.png" />
     <entry file="file://$PROJECT_DIR$/Training Images/table/table_47.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -363,6 +295,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="127" selection-start-line="5" selection-start-column="127" selection-end-line="5" selection-end-column="127" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
