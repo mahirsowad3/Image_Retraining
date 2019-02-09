@@ -3,7 +3,7 @@ import urllib.request
 import time
 import datetime
 
-file = open('bed_links.txt', 'r')
+file = open('car_links.txt', 'r')
 
 images_successfully_downloaded = 1
 
@@ -13,7 +13,7 @@ def download_file(url):
     try:
         file_name = str(images_successfully_downloaded)
         print('Beginning download of ' + file_name + '.jpg')
-        urllib.request.urlretrieve(url, os.getcwd() + '/ImgNet Images/bed/' + file_name + '.jpg')
+        urllib.request.urlretrieve(url, os.getcwd() + '/ImgNet Images/car/' + file_name + '.jpg')
         print('Done for ' + file_name)
         images_successfully_downloaded += 1
     except:
